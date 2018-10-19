@@ -1,6 +1,6 @@
 # loopback-connector-memory-idstr
 
-the same as loopback default connector memory, except that this connector can handle stringified id.
+the same as loopback default connector memory, except that this connector can handle stringified id and read file by buffer.
 
 # installation
 
@@ -11,12 +11,12 @@ npm install loopback-connector-memory-idstr
 # usage
 
 server/datasources.json in loopback
+
 ```json
 {
-    "db": {
-        "name"     : "db",
-        "connector": "memory-idstr"
-    }
+  "db": {
+    "name": "db",
+    "connector": "memory-idstr"
+  }
 }
 ```
-
