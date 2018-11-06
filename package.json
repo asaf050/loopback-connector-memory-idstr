@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CureApp/loopback-connector-memory-idstr.git"
+    "url": "https://github.com/asaf050/loopback-connector-memory-idstr.git"
   },
   "bugs": {
-    "url": "https://github.com/CureApp/loopback-connector-memory-idstr/issues"
+    "url": "https://github.com/asaf050/loopback-connector-memory-idstr/issues"
   },
-  "homepage": "https://github.com/CureApp/loopback-connector-memory-idstr",
+  "homepage": "https://github.com/asaf050/loopback-connector-memory-idstr",
   "keywords": [
     "loopback",
     "connector"
